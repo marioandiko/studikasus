@@ -2,10 +2,10 @@
 
 |                   |                        |
 |-------------------|------------------------|
-| **Nama**          | [isi nama Anda]        |
-| **NPM**           | [isi NPM Anda]         |
-| **Program Studi** | [isi program studi]    |
-| **Universitas**   | [isi universitas]      |
+| **Nama**          | Mario Andiko Dwi Saputra        |
+| **NPM**           | G1A025015         |
+| **Program Studi** | Teknik Informatika   |
+| **Universitas**   | Universitas Bengkulu    |
 
 Repositori ini berisi 6 studi kasus yang dibuat dari 6 materi kuliah praktisi. Setiap studi kasus ada di folder sendiri dan hanya terdiri dari **1 file Python** (`main.py`). Semua program hanya memakai library bawaan Python, jadi **tidak perlu install apa pun**.
 
